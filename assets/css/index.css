@@ -14,6 +14,10 @@ div {
   width: 50%;
 }
 
+.row {
+  width: 100%;
+}
+
 @media (min-width: 768px) {
   .list-filters {
     margin-top: 2.5rem;
