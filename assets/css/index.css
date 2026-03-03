@@ -20,7 +20,7 @@ div {
 .column-md-box {
   float: left;
   width: 50%;
-  box-shadow: 10px 10px 5px black;
+  box-shadow: 10px 10px 2px 1px rgb(0 0 0 / 0.2)
 }
   
 .column-lg {
