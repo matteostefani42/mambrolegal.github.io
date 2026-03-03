@@ -26,3 +26,17 @@ div {
   width: 100%;
   padding-bottom: 30px;
 }
+
+<!-- Icons -->
+
+.icons {
+  color: #cc7722;
+}
+
+i {
+  text-shadow: 2px 4px 6px orange;
+}
+
+.fa {
+  font-size: 50px;
+}
