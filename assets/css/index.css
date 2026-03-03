@@ -5,6 +5,10 @@
 #   font-family: Candara, "Times New Roman";
 # }
 
+p, h1, h2, h3 {
+  font-family: "Times New Roman";
+}
+  
 .column {
   float: left;
   width: 50%;
