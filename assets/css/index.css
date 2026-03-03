@@ -40,15 +40,27 @@ div {
 
 <!-- Icons -->
 
-.icons {
-  color: #B89161;
-}
-
 i {
   color: #B89161;
   font-size: 40px;
 }
 
-.fa {
-  font-size: 40px;
+<!-- Links -->
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
 }
