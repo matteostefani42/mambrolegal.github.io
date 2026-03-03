@@ -1,9 +1,3 @@
-* { 
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 div {
   font-family: "Times New Roman", Times, "Lucida Console", "Candara", sans-serif;
 }
@@ -16,6 +10,7 @@ div {
 
 .row {
   width: 100%;
+    margin-bottom: 20px;
 }
 
 @media (min-width: 768px) {
