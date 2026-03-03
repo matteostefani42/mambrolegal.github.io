@@ -1,9 +1,9 @@
-html * {
-  font-size: 16px;
-  line-height: 1.5;
-  color: #2020131;
-  font-family: Candara, "Times New Roman";
-}
+# html * {
+#   font-size: 16px;
+#   line-height: 1.5;
+#   color: #2020131;
+#   font-family: Candara, "Times New Roman";
+# }
 
 .column {
   float: left;
@@ -11,7 +11,7 @@ html * {
 }
 
 .list-filters {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Candara, "Times New Roman", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.125rem;
   margin-top: 1.5rem;
   text-align: center;
