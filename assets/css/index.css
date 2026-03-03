@@ -3,6 +3,7 @@ div {
 }
   
 .column {
+  font-family: "Times New Roman", Times, "Lucida Console", "Candara", sans-serif;
   float: left;
   width: 50%;
 }
