@@ -1,6 +1,11 @@
 div {
   font-family: "Times New Roman", Times, "Lucida Console", "Candara", sans-serif;
 }
+
+.container-md {
+  margin-left: 100px;
+  margin-right: 100px;
+}
   
 .column {
   font-family: "Times New Roman", Times, "Lucida Console", "Candara", sans-serif;
