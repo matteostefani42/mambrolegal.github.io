@@ -14,12 +14,12 @@ p, h1, h2, h3 {
   width: 50%;
 }
 
-.list-filters {
-  font-family: Candara, "Times New Roman", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.125rem;
-  margin-top: 1.5rem;
-  text-align: center;
-}
+# .list-filters {
+#   font-family: Candara, "Times New Roman", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+#   font-size: 1.125rem;
+#   margin-top: 1.5rem;
+#   text-align: center;
+# }
 
 @media (min-width: 768px) {
   .list-filters {
