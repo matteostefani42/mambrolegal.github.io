@@ -21,7 +21,7 @@ author: Matteo Stefani
 
 navbar-links:
   Servizi: "Servizi"
-    - Immigrazione e Cittadinanza: "Servizi#imm-e-citt"
+    - Immigrazione e Cittadinanza: "Servizi#imm-citt"
     - Diritto Civile: "Servizi#civile"
     - Diritto Penale: "Servizi#penale"
     - Golden Visa: "Servizi#golden-visa"
