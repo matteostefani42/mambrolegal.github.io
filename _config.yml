@@ -10,22 +10,20 @@
 ############################
 
 # Name of website
-title: Studio Legale Mambro
+title: Comitato di Lotta Viterbo
 
 # Your name to show in the footer
-author: Matteo Stefani
+author: CLV
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Servizi:
-    - Immigrazione e Cittadinanza: "servizi#imm-citt"
-    - Diritto Civile: "servizi#civile"
-    - Diritto Penale: "servizi#penale"
-    - Golden Visa: "servizi#golden-visa"
-  Home: "https://matteostefani42.github.io/mambrolegal.github.io/"
+  Storico:
+    - Locandine: "locandine"
+    - Volantini: "volantini"
+  Home: "https://matteostefani42.github.io/clv/"
 
 ################
 # --- Logo --- #
@@ -40,7 +38,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/MambroLegal Logo.png"
+title-img: "/assets/img/Logo.png"
 
 
 #####################################
@@ -51,10 +49,10 @@ title-img: "/assets/img/MambroLegal Logo.png"
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "chiaramambro0@gmail.com"
-  instagram: legal_avv_mambro
+  email: "comitatolottavt@proton.me"
+  instagram: comitatolotta_viterbo
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  whatsapp: 3496814770
+#  whatsapp: yournumber
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -82,7 +80,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
